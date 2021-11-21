@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0462e90e-4b6e-48c9-83a5-13905fd32cf1": {
+      "ProjectGuid": "0462e90e-4b6e-48c9-83a5-13905fd32cf1",
+      "DisplayName": "BloggingWebAPI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
